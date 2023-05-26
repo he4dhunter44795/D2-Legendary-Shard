@@ -1,5 +1,5 @@
 ; Made by M7ilan#5185
-; D2 Legendary Shard Macro S21 for Exotic Chest
+; D2 Legendary Shard Macro S21 for Exotic Arm
 ; Download AutoHotKey
 ; Make sure the windows resolution is 1080x1920 + Full D2 Screen Bounds
 ; Ctrl + 1 for Start
