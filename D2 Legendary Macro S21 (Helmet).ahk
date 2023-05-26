@@ -9,7 +9,7 @@
   loop {
     loop 9
     {
-      MouseMove, 1166, 666
+      MouseMove, 1166, 555
       Click
       Sleep, 750
     }
